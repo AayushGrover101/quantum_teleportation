@@ -1,1 +1,1 @@
-# Quantum Teleportation: Leveraging Quantum Entanglement to Teleport The State of One Qubit to Another
+# Quantum Teleportation: leveraging quantum entanglement to teleport the state of one qubit to another
